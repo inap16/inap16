@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+estou estudando na alura estou me desenvolvendona linguagem javaScript beijinho
+💋
 **inap16/inap16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
